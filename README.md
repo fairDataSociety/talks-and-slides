@@ -1,3 +1,5 @@
+REPO IS NOT MAINTANED - ARCHIVING AS READ ONLY
+
 # Fair Data Society talks and slides
 
 Check this repository for updates after conferences. Feedback on content most welcome!
